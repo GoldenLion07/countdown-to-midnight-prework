@@ -17,4 +17,5 @@ end
 return "HAPPY NEW YEAR!"
 end
 
-#-=
+#-= Subtract & Assign operator, instead of adding on +1 to a certain number, it subtracts down from that number.
+# In a countdown, we are counting down from the number 10.
